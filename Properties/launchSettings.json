@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Shop.ProductTestWork": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "https://localhost:53031/swagger/index.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53031;http://localhost:53032"
+    }
+  }
+}
